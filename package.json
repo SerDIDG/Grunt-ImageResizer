@@ -1,0 +1,21 @@
+{
+  "name": "ImageResizer",
+  "version": "1.0.0",
+  "description": "Create images for iOS / Android application",
+  "license": "MIT",
+  "author": {
+    "name": "Serhio Magpie",
+    "email": "serdidg@gmail.com",
+    "url": "https://github.com/SerDIDG"
+  },
+  "repository": "SerDIDG/ImageResizer",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-image-resize": "^1.0.0",
+    "load-grunt-tasks": "~3.3.0",
+    "time-grunt": "^1.2.2"
+  }
+}
